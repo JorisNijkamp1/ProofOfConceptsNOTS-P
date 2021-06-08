@@ -12,3 +12,4 @@
 De dataset die is gebruikt in het [3BrandRecognizer.ipynb](https://github.com/JorisNijkamp1/ProofOfConceptsNOTS-P/blob/master/3BrandRecognizer.ipynb "3BrandRecognizer.ipynb") notebook is: [LogoDet-3K](https://www.kaggle.com/lyly99/logodet3k)
 
 ## Google colab transfer learning start up guide
+De benodigdheden voor het zelf trainen van een model, via de Google Colab notebook zijn als volgt. Maak folder aan op je eigen Google Drive, in de folder wordt de dataset(afbeeldingen) opgeslagen. Zorg ervoor dat de mappen waar de afbeeldingen in staan, de juiste naam hebben(label van afbeeldingen) Dit is de enigste stap die nodig is voordat je kunt starten met het trainen. Importeer 3BrandRecognizer.ipynb in Google Colab en hierin staat stap voor stap beschreven welke acties er uitgevoerd worden om een model te trainen.
